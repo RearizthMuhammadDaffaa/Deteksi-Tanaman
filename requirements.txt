@@ -1,0 +1,5 @@
+streamlit
+matplotlib
+tensorflow
+tensorflow_hub
+# Tambahkan dependensi lain yang diperlukan oleh aplikasi Anda
