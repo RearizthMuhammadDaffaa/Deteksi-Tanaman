@@ -2,4 +2,5 @@ streamlit
 matplotlib
 tensorflow
 tensorflow_hub
+numpy
 # Tambahkan dependensi lain yang diperlukan oleh aplikasi Anda
